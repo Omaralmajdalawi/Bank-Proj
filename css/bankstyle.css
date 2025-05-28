@@ -4,7 +4,7 @@ html {
 }
 body {
   margin: 0;
-  background: hsl(230, 9%, 70%);
+   background-color: #f1efec;
   font-family: "Poppins", sans-serif;
 }
 p {
@@ -224,7 +224,7 @@ p {
   height: 30vh;
   overflow: hidden;
   color: rgb(0, 0, 0);
-  background-color: hsl(230, 9%, 70%);
+   background-color: #f1efec;
   padding: 100px 0 0 0;
   text-align: center;
   font-size: 30px;
@@ -236,7 +236,7 @@ p {
 /*Bankinfo*/
 .Bank_info {
   height: 40vh;
-  background-color: hsl(230, 9%, 70%);
+  background-color: #f1efec;
   color: #06b2dd;
   display: flex;
   justify-content: center;
@@ -268,7 +268,7 @@ h2 {
   padding: 60px 0;
   text-align: center;
   margin: auto;
-  background-color: hsl(230, 9%, 70%);
+ background-color: #f1efec;
   overflow: hidden;
   z-index: 1;
 }
@@ -300,7 +300,7 @@ h2 {
   position: relative;
   padding: 60px 0;
   text-align: center;
-  background-color: hsl(230, 9%, 70%);
+ background-color: #f1efec;
   margin: 0;
 }
 .features::before {
@@ -403,7 +403,7 @@ background-image: url('../assets/electronicbank.webp');
   color: white;
   padding: 70px 0 0 0;
   text-align: center;
-  background-color: hsl(230, 9%, 70%);
+  background-color: #f1efec;
 }
 #Acc_text {
   color: rgb(0, 0, 0);
